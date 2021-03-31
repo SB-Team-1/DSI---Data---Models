@@ -1,6 +1,6 @@
-### Small Business Hackathon 
+### Small Business Hackathon: Leveraging e-commerce to Support Small Business
 
-This work was part of a 3-day Hackathon intended to support Small Business through leveraging e-commerce during the pandemic. We worked in a cross-functional team including 1 data scientist, 2 UX Designers, and 3 Software Engineers. Please see below the details on the problem statement we chose to address focusing on scalability of a small business product / services. 
+This work is part of a 3-day Hackathon intended to support Small Business through leveraging e-commerce during the pandemic. We worked in a cross-functional team including 1 data scientist, 2 UX Designers, and 3 Software Engineers. Please see below the details on the problem statement we chose to address focusing on scalability of a small business product / services. 
 
 **Problem Statement**
 
@@ -14,9 +14,11 @@ We cleaned, organized the data and ran regression analysis on the data. Our anal
 
 We've built 6 regression models to predict store sales. Our top performing model was Random Forest with a R2 score of 0.90 and RMSE of 1,818. R2 score implies that the model explains 90% of the variance of the date is hasn’t yet seen. 
 
+Please see final product including UX Design and Engineering Teams at (https://github.com/SB-Team-1). 
+
 **Success of the platform**
 
-An important question that we ask ourselves: how will we measure success of the platform?
+An important question that we asked ourselves: how will we measure success of the platform?
 Because We focus on automating the journey for our member-businesses and customers through simplified e-commerce tools, we will be able to track store sales data (previously unavailable to retailers) and customer review metrics. We will have the tools to provide insights on store foot traffic and promotions, so that, the businesses are equipped to make well-informed data driven decisions. Growing network of small businesses will be key. 
 
 #### Creating Community of Local Businesses
